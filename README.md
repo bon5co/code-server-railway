@@ -1,5 +1,9 @@
 # code-server on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/code-server-or-just-updated-vs-code-in-b?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Code Server template](https://railway.com/deploy/code-server-or-just-updated-vs-code-in-b?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 A Railway-ready wrapper around [code-server](https://github.com/coder/code-server)
 4.134.0 (VS Code 1.135.0) — full VS Code in the browser, with a terminal, the
 extension marketplace, and your files on a persistent volume.
